@@ -17,4 +17,4 @@ EXPOSE 5000
 ENV NAME OpentoAll
 
 #Run python program
-CMD ["python","face_encode_and_cluster_and_recommend.py"]
+CMD ["python","rec.py"]
